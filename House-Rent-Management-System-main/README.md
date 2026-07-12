@@ -49,16 +49,19 @@ A full-stack **House Rent Management System** developed using the **MERN Stack (
 
 ## 📂 Project Structure
 
-```
+```text
 House-Rent-Management-System/
 │
 ├── client/
+│   ├── public/
 │   ├── src/
 │   │   ├── components/
 │   │   ├── pages/
 │   │   ├── services/
 │   │   ├── App.js
 │   │   └── index.js
+│   ├── package.json
+│   └── package-lock.json
 │
 ├── server/
 │   ├── config/
@@ -66,13 +69,32 @@ House-Rent-Management-System/
 │   ├── middleware/
 │   ├── models/
 │   ├── routes/
+│   ├── package.json
 │   └── server.js
 │
+├── Documentation/
+│   └── House_Rent_Management_System_Documentation.pdf
+│
+├── Phase Wise Templates/
+│   ├── Brainstorming and Ideation Phase/
+│   ├── Project Design Phase/
+│   ├── Project Development Phase/
+│   ├── Project Planning Phase/
+│   └── Requirement Analysis/
+│
+├── screenshots/
+│   ├── home.png
+│   ├── login.png
+│   ├── register.png
+│   ├── properties.png
+│   ├── property-details.png
+│   ├── add-property.png
+│   ├── dashboard.png
+│   └── my-bookings.png
+│
+├── .gitignore
 └── README.md
 ```
-
----
-
 ## ⚙ Installation
 
 ### Clone the repository
