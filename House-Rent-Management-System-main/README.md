@@ -73,7 +73,7 @@ House-Rent-Management-System/
 │   └── server.js
 │
 ├── Documentation/
-│   └── House_Rent_Management_System_Documentation.pdf
+│   └── Documentation.pdf
 │
 ├── Phase Wise Templates/
 │   ├── Brainstorming and Ideation Phase/
@@ -166,6 +166,7 @@ The application uses **JWT (JSON Web Token)** for secure authentication. After a
 
 ## 👨‍💻 Developed By
 
+**PILLI VIJAYAKUMARI**<br>
 **CHINTAKULA MUKESH NARAYANA**<br>
 **DASARI JEEVAN SAI CHAKRI**<br>
 **DASARI TEJEESWARI**
